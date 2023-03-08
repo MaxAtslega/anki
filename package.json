@@ -35,7 +35,7 @@
         "jest-cli": "^27.2.4",
         "jsdoc": "^3.6.6",
         "license-checker-rseidelsohn": "^2.1.1",
-        "minimist": "^1.2.5",
+        "minimist": "^1.2.6",
         "patch-package": "^6.4.7",
         "prettier": "2.4.1",
         "prettier-plugin-svelte": "2.4.0",
